@@ -122,7 +122,7 @@ export const AppBarLarge = ({
         isMetabotVisibleToUser) && (
         <Flex
           align="center"
-          gap="sm"
+          gap="md"
           justify="flex-end"
           maw="32.5rem"
           flex="1 1 auto"
